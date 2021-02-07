@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="true_btn_text">True</string>
+    <string name="false_btn_text">False</string>
+    <string name="androidRobot" />
+    <string name="prev_btn">Prev</string>
+    <string name="next_btn">Next</string>
+    <string name="question_brady">Tom Brady has 6 super bowl rings?</string>
+    <string name="question_goat">Tom Brady is the goat?</string>
+    <string name="question_kids">Tom Bradys kids speak portuguese?></string>
+    <string name="question_superBowls">Tom Brady has the most super bowl appearances ever as an NFL quarterback?</string>
+    <string name="question_diet">Tom Brady is a vegan?</string>
+    <string name="question_white">Tom Brady is 6-0 in the super bowl when wearing white?</string>
+    <string name="question_manyMen">Tom Brady once posted on instagram featuring 50 cents classic hit Many Men?</string>
+    <string name="question_edelman">Tom Brady threw a touchdown pass to Julian Edelman in super bowl 49</string>
+    <string name="question_malcolm">After winning the MVP of super bowl 49, Tom Brady gave the car that he won away to Malcolm Butler?</string>
+    <string name="question_peyton">Tom Brady did a commercial with Peyton Manning, mimicking the McDonalds horse commercial that Michael Jordan and Larry Bird did?</string>
+    <string name="answer_correct">Correct!</string>
+    <string name="answer_wrong">That is incorrect</string>
+
+</resources>
